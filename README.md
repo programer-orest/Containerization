@@ -1,7 +1,5 @@
 **Django TodoList – Docker Setup**
 
-Docker Volumes — configured persistent storage for MySQL data using [Docker volumes] (https://github.com/programer-orest/Docker_volume)
-
-Docker Compose — defined a multi-container environment for Django and MySQL services using [Docker compose] (https://github.com/programer-orest/Docker_compose)
-
-Externalized Configs — managed database connection parameters through environment variables using [Docker externalized configs] (https://github.com/programer-orest/Docker_Externalized_configs]
+- **Docker Volumes** — setting up persistent storage for MySQL data [Docker volumes](https://github.com/programer-orest/Docker_volume)  
+- **Docker Compose** — defining multi-container services for Django and MySQL [Docker Compose](https://github.com/programer-orest/Docker_compose)  
+- **Docker Externalized Configs** — managing database connection settings via environment variables [Docker Externalized Configs](https://github.com/programer-orest/Docker_Externalized_configs)
